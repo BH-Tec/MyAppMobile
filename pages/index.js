@@ -11,40 +11,36 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Meu Portfolio</h1>
-
-        <p>Criado por: <a href="https://brunodorea.github.io/">Bruno Dórea</a></p>
-
+        <h1 className={styles.title}>Meus Apps</h1>
+        <p><a href="https://brunodorea.github.io/">Bruno Dórea</a></p>
         <div className={styles.grid}>
-
-          <a href="https://blogdobruno.gatsbyjs.io/" target="__blank" className={styles.card}>
-            <h2>Blog &rarr;</h2>
-            <p>Blog criado com o GatsbyJs</p>
+          <a href="#" target="__blank" className={styles.card}>
+            <h2>Cartão de Visitas &rarr;</h2>
+            <p>App de cartão de visitas</p>
           </a>
 
-          <a href="https://orkut-dio.netlify.app/" target="__blank" className={styles.card}>
-            <h2>Orkut Clone &rarr;</h2>
-            <p>Projeto prático da DIO para recriação da interface do Orkut.</p>
+          <a href="#" target="__blank" className={styles.card}>
+            <h2>CoinConverter &rarr;</h2>
+            <p>App de conversão de moedas e câmbio</p>
           </a>
 
-          <a href="https://spiderverso.netlify.app/" target="__blank" className={styles.card}>
-          <h2>Homem Aranha no multiverso &rarr;</h2>
-            <p>Criando um site com HTML + CSS + JavaScript sobre o multiverso dos filmes do Homem Aranha.</p>
+          <a href="#" target="__blank" className={styles.card}>
+            <h2>ToDo &rarr;</h2>
+            <p>App de lembretes e tarefas</p>
+          </a>
+
+          <a href="#" target="__blank" className={styles.card}>
+            <h2>SoccerNews &rarr;</h2>
+            <p>App de noticias sobre futebol</p>
           </a>
 
         </div>
       </main>
 
       <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app" target="_blank" rel="noopener noreferrer" >
           Powered by{' '}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
+          <span className={styles.logo}> <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} /> </span>
         </a>
       </footer>
     </div>
