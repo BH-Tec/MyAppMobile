@@ -34,6 +34,11 @@ export default function Home() {
             <p>App de noticias sobre futebol</p>
           </a>
 
+          <a href="#" target="__blank" className={styles.card}>
+            <h2>Cartão de Visitas &rarr;</h2>
+            <p>App de cartão de visitas</p>
+          </a>
+          
         </div>
       </main>
 
