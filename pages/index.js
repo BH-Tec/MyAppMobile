@@ -6,12 +6,12 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Bruno Dórea | Portfolio</title>
+        <title>Bruno Dórea | Portfolio📱</title>
         <link rel="icon" href="/icon.png" />
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Meus Apps</h1>
+        <h1 className={styles.title}>My Apps📱</h1>
         <p><a href="https://brunodorea.github.io/">Bruno Dórea</a></p>
         <div className={styles.grid}>
 
