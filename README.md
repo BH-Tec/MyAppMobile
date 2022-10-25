@@ -1,26 +1,29 @@
 <h1 align="center">
-  Portfolio
+  Portfolio 📱
 </h1>
 
 <p align="center">
-  <a href="http://portfolio-brunodorea.vercel.app/">Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="http://portfolio-brunodorea.vercel.app/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">📝 License</a>
 </p>
-
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- Next.js
-- Vercel
 
 ## 💻 Projeto
 
 Criação do meu portfolio de apps mobile, similar a uma loja de aplicativos.
 
-## :memo: Licença
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">  
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+</p>
+
+## 📝 License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
