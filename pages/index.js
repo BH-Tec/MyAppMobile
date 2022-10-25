@@ -14,22 +14,28 @@ export default function Home() {
         <h1 className={styles.title}>Meus Apps</h1>
         <p><a href="https://brunodorea.github.io/">Bruno Dórea</a></p>
         <div className={styles.grid}>
-          <a href="#" target="__blank" className={styles.card}>
+
+          <a href="https://github.com/BH-Tec/dio-copa-2022-android" target="__blank" className={styles.card}>
+            <h2>World Cup 2022 &rarr;</h2>
+            <p>App com listagem e notificações dos jogos da Copa do Mundo de 2022</p>
+          </a>
+
+          <a href="https://github.com/BH-Tec/CartaoV" target="__blank" className={styles.card}>
             <h2>Cartão de Visitas &rarr;</h2>
             <p>App de cartão de visitas</p>
           </a>
 
-          <a href="#" target="__blank" className={styles.card}>
+          <a href="https://github.com/BH-Tec/CoinConverter" target="__blank" className={styles.card}>
             <h2>CoinConverter &rarr;</h2>
             <p>App de conversão de moedas e câmbio</p>
           </a>
 
-          <a href="#" target="__blank" className={styles.card}>
+          <a href="https://github.com/BH-Tec/ToDo" target="__blank" className={styles.card}>
             <h2>ToDo &rarr;</h2>
             <p>App de lembretes e tarefas</p>
           </a>
 
-          <a href="#" target="__blank" className={styles.card}>
+          <a href="https://github.com/BH-Tec/SoccerNews" target="__blank" className={styles.card}>
             <h2>SoccerNews &rarr;</h2>
             <p>App de noticias sobre futebol</p>
           </a>
